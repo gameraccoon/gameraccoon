@@ -1,4 +1,1 @@
-# gameracoon
-Test to ckeck that it's working
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gameraccoon&hide=objective-c)](https://github.com/gameraccoon)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gameraccoon&langs_count=5&hide=objective-c,objective-c%2B%2B&layout=compact)](https://github.com/gameraccoon)
