@@ -6,4 +6,4 @@
 
 <a href="http://gameraccoon.com" target="_blank">List of my gamedev projects</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gameraccoon&langs_count=5&hide=objective-c,objective-c%2B%2B&layout=compact&theme=dark)](https://github.com/gameraccoon)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gameraccoon&langs_count=5&hide=objective-c,objective-c%2B%2B&layout=compact&theme=algolia)](https://github.com/gameraccoon)
